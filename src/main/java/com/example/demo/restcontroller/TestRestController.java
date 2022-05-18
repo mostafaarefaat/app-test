@@ -10,7 +10,7 @@ public class TestRestController {
 
     @GetMapping("/get")
     public String getMethod(){
-        return "app rest connected";
+        return "app rest connected new build v1";
     }
 
 }
